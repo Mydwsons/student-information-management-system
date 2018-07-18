@@ -1,0 +1,7 @@
+步骤：
+	1、安装Tomcat，并关联
+	2、创建web工程
+	3、创建一个类，实现Servlet接口
+	4、配置Servlet信息(在web.xml文件中配置)
+	5、将项目部署到Tomcat服务器，并开启服务
+	6、请求（访问）http://localhost:8080
